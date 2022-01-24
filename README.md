@@ -4,7 +4,7 @@ This is a Userbot based on WhatsAsena written by [BROCODE-SIR](https://github.co
 
 ## What is WhatsAsena?
 
-**WhatsAsena,** is a WhatsApp bot written by [Yusuf Usta](https://github.com/Quiec). Does not log into your account It is written on WhatsApp Web API.
+**WhatsAsena,** is a WhatsApp bot written by [BROCODE-SIR](https://github.com/Quiec). Does not log into your account It is written on WhatsApp Web API.
 
 ## Setup
 
