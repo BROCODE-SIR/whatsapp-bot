@@ -107,5 +107,5 @@ This is a Userbot based on WhatsAsena written by [BROCODE-SIR](https://github.co
 
 ## Thanks To
 
-- [BROCODE-SIR](https://github.com/Quiec) for [WhatsAsena](https://github.com/yusufusta/WhatsAsena)
+- [BROCODE-SIR](https://github.com/BROCODE-SIR) for [WhatsAsena](https://github.com/yusufusta/WhatsAsena)
 - [@shadin](https://github.com/adiwajshing) for [Baileys](https://github.com/adiwajshing/Baileys)
