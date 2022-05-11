@@ -6,7 +6,8 @@ This is a Userbot based on WhatsAsena written by [BROCODE-SIR](https://github.co
 
 **WhatsAsena,** is a WhatsApp bot written by [BROCODE-SIR](https://github.com/BROCODE-SIR). Does not log into your account It is written on WhatsApp Web API.
 
-<img src="https://i.imgur.com/LwLOk8E.jpeg" 
+<img src="https://i.imgur.com/LwLOk8E.jpeg" alt="20211201-144946" border="0"></a>
+
 
 
 
